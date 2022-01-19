@@ -1,8 +1,8 @@
-# _TITLE_
+# _Grocery List_
 
 #### By _**Jessica Baker & Marisa Edgar**_ 
 
-#### _Lesson/ProjectName_
+#### _Grocery List_
 
 ## Technologies Used
 
@@ -15,15 +15,14 @@
 
 ## Description
 
-DESCRIBE
+This form  allows a user to input items, submits the form, hide the form and display the list of items in alphabetical order, all uppercased.
 
 ## Setup/Installation Requirements
 
-* Go to _GITLINK_
+* Go to _https://github.com/jessb-epicodus/grocery-list.git_
 * Cone this repository to your desktop (or other desired location)
 * Navigate to the top level of the directory called _Portfolio_
 * Open the index.html file in your browser
-* Or copy & paste this link in your brower: _PUBLISHEDLINK_
 
 ## Known Bugs
 
